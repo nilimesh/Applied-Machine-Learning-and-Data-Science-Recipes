@@ -1,4 +1,4 @@
-# Applied-Machine-Learning-and-Data-Science-Recipes
+# Applied-Machine-Learning-and-Data-Science-Recipes - Data Science Coding Bootcamp for Beginners
 Applied Machine Learning &amp; Data Science with Python, R and MATLAB
 
 A list of Python, R and MATLAB Codes for Applied Machine Learning and Data Science
@@ -19,4 +19,7 @@ Learn by Coding Categories:
 9. Supervised Learning: https://setscholars.net/category/supervised-learning/
 10. Tabular Data Analytics: https://setscholars.net/category/tabular-data-analytics/
 
-SETScholars Analytics: https://setscholarsanalytics.podia.com/
+Portfolio Projects for Aspiring Data Scientists: Tabular Text & Image Data Analytics as well as Time Series Forecasting in Python & R @ https://wacamlds.podia.com/portfolio-projects-for-aspiring-data-scientists-end-to-end-applied-machine-learning-solutions-in-python-r
+
+Western Australian Center for Applied Machine Learning & Data Science @ https://wacamlds.podia.com/
+

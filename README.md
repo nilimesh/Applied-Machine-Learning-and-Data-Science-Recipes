@@ -38,6 +38,13 @@ Learn by Coding Categories:
 28. R for Beginners: https://setscholars.net/category/r-for-beginners/
 29. R for Business Analytics: https://setscholars.net/category/r-for-business-analytics/
 30. R for Data Science: https://setscholars.net/category/r-for-data-science/
+31. R for Data Visualisation: https://setscholars.net/category/r-for-data-visualisation/
+32. R for Excel Users: https://setscholars.net/category/r-for-excel-users/
+33. R Machine Learning: https://setscholars.net/category/r-machine-learning/
+34. R Machine Learning Crash Course: https://setscholars.net/category/r-machine-learning-crash-course/
+35. R Regression: https://setscholars.net/category/r-regression/
+36. Regression: https://setscholars.net/category/regression/
+37. XGBOOST: https://setscholars.net/category/xgboost/
 
 
 Portfolio Projects for Aspiring Data Scientists: Tabular Text & Image Data Analytics as well as Time Series Forecasting in Python & R @ https://wacamlds.podia.com/portfolio-projects-for-aspiring-data-scientists-end-to-end-applied-machine-learning-solutions-in-python-r

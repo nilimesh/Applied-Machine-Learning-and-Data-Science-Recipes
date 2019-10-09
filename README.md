@@ -18,6 +18,12 @@ Learn by Coding Categories:
 8. SKLEARN: https://setscholars.net/category/sklearn/
 9. Supervised Learning: https://setscholars.net/category/supervised-learning/
 10. Tabular Data Analytics: https://setscholars.net/category/tabular-data-analytics/
+11. End-to-End Data Science Recipes: https://setscholars.net/category/a-star-data-science-recipe/
+12. Applied Statistics: https://setscholars.net/category/applied-statistics/
+13. Bagging Ensemble: https://setscholars.net/category/bagging-ensemble/
+14. Boosting Ensemble: https://setscholars.net/category/boosting-ensemble/
+15. CatBoost: https://setscholars.net/category/catboost/
+
 
 Portfolio Projects for Aspiring Data Scientists: Tabular Text & Image Data Analytics as well as Time Series Forecasting in Python & R @ https://wacamlds.podia.com/portfolio-projects-for-aspiring-data-scientists-end-to-end-applied-machine-learning-solutions-in-python-r
 

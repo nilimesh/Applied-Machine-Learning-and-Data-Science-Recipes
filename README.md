@@ -46,7 +46,6 @@ Learn by Coding Categories:
 36. Regression: https://setscholars.net/category/regression/
 37. XGBOOST: https://setscholars.net/category/xgboost/
 
-
 Portfolio Projects for Aspiring Data Scientists: Tabular Text & Image Data Analytics as well as Time Series Forecasting in Python & R @ https://wacamlds.podia.com/portfolio-projects-for-aspiring-data-scientists-end-to-end-applied-machine-learning-solutions-in-python-r
 
 Western Australian Center for Applied Machine Learning & Data Science @ https://wacamlds.podia.com/

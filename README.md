@@ -23,6 +23,11 @@ Learn by Coding Categories:
 13. Bagging Ensemble: https://setscholars.net/category/bagging-ensemble/
 14. Boosting Ensemble: https://setscholars.net/category/boosting-ensemble/
 15. CatBoost: https://setscholars.net/category/catboost/
+16. Clustering: https://setscholars.net/category/clustering/
+17. Data Analytics: https://setscholars.net/category/data-analytics/
+18. Data Science: https://setscholars.net/category/data-science/
+19. Data Visualisation: https://setscholars.net/category/data-visualisation/
+20. Decision Tree: https://setscholars.net/category/decision-tree/
 
 
 Portfolio Projects for Aspiring Data Scientists: Tabular Text & Image Data Analytics as well as Time Series Forecasting in Python & R @ https://wacamlds.podia.com/portfolio-projects-for-aspiring-data-scientists-end-to-end-applied-machine-learning-solutions-in-python-r

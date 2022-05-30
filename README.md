@@ -1,5 +1,5 @@
 # Applied-Machine-Learning-and-Data-Science-Recipes - Data Science Coding Bootcamp for Beginners
-Applied Machine Learning &amp; Data Science with Python, R and MATLAB
+Applied Machine Learning &amp; Data Science with Python, R and SQL
 
 A list of Python, R and MATLAB Codes for Applied Machine Learning and Data Science
 https://setscholars.net/
